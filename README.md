@@ -1,5 +1,4 @@
 # Checkers-Console-interface-Game
-Checkers game implemented in C# to console application.
 
 Checkers game implemented in C# at .NET framework to console application.
 <hr/>
@@ -17,7 +16,7 @@ The player makes his move by the format: ROWcol>ROWcol (for example in the pictu
 ![image](https://github.com/user-attachments/assets/2e840dcd-a301-47bb-999d-3262759241ff)
 
 
-The O's kings are marked with 'Q', and The X's kings are marked with Z.
+The O's kings are marked with 'U', and The X's kings are marked with 'K'.
 At any point, the user can quit the game by entering 'Q' instead of a valid move.
 <hr/>
 
